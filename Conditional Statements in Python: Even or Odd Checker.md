@@ -16,6 +16,10 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
+Developed By: MUKHIL S
+Register Number: 212225040263
+```
+```
 a = (0 == True)
 b = (False== False) 
 c = True + True
